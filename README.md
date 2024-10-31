@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/PixelTux/logseq-elysium/837ce38ed1639aa121f59c3b2b0ae1c7b4823de2/elysium_logo.svg" alt="Icon" width="150" height="150"> </br>
+  <img src="https://avatars.githubusercontent.com/u/181584346?s=400&u=4c7f3aceda5c0c9a5435dcf3e6cf7aa2d438a18a&v=4" alt="Icon" height="150"> </br>
   Elysium theme for <a href="https://github.com/pop-os/cosmic-epoch">COSMIC Desktop Environment</a>
 </h2>
 
